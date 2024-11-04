@@ -9,14 +9,14 @@ country: "us"
 language: "en"   
 latitude: "37.657612"      
 longitude: "122.382176"     
-humandate: "December 2-3, 2025"   
+humandate: "December 2-3, 2024"   
 humantime: "9:00 am - 5:00 pm"   
-startdate: 2025-12-02     
-enddate: 2025-12-03       
+startdate: 2024-12-02     
+enddate: 2024-12-03       
 instructor: ["Darach Miller", "Erin Becker"] 
 helper: ["Altaf Kassam", "TBA"]   
 email: ["dchmiller@gmail.com","ebecker@carpentries.org", "kassam.altaf@gene.com"] 
-collaborative_notes:  https://pad.carpentries.org/2025-12-02-genentech
+collaborative_notes:  https://pad.carpentries.org/2024-12-02-genentech
 eventbrite:           # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
 what3words:           # optional: what3words (https://what3words.com) address of the workshop venue, without leading slashes e.g. "globe.lessening.computers"
 ---
