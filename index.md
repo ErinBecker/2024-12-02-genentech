@@ -4,7 +4,12 @@ layout: workshop      # DON'T CHANGE THIS.
 # online workshop) are available at
 # https://carpentries.github.io/workshop-template/customization/index.html
 venue: "Genentech" 
-address: "FIXME"      # full street address of workshop (e.g., "Room A, 123 Forth Street, Blimingen, Euphoria"), videoconferencing URL, or 'online'
+# Comment for below: full street address of workshop (e.g., "Room A, 123 Forth Street, Blimingen, Euphoria"), videoconferencing URL, or 'online'
+address: |
+  Teaching room "Half-moon Bay",
+  Genentech Building 85, 
+  601 Gateway Blvd, 
+  South San Francisco, CA, 94080
 country: "us"    
 language: "en"   
 latitude: "37.657612"      
@@ -18,7 +23,8 @@ helper: ["Altaf Kassam", "TBA"]
 email: ["darach@fastmail.com","ebecker@carpentries.org", "kassam.altaf@gene.com"] 
 collaborative_notes:  https://pad.carpentries.org/2024-12-02-genentech
 eventbrite:           # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
-what3words:           # optional: what3words (https://what3words.com) address of the workshop venue, without leading slashes e.g. "globe.lessening.computers"
+what3words: "cute.crush.train"
+  # optional: what3words (https://what3words.com) address of the workshop venue, without leading slashes e.g. "globe.lessening.computers"
 ---
 
 {% comment %}
