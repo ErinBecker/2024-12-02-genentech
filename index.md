@@ -12,8 +12,8 @@ address: |
   South San Francisco, CA, 94080
 country: "us"    
 language: "en"   
-latitude: "37.657612"      
-longitude: "122.382176"     
+latitude: "37.65822546769352"
+longitude: "-122.39940744653269"
 humandate: "December 2-3, 2024"   
 humantime: "9:00 am - 5:00 pm"   
 startdate: 2024-12-02     
