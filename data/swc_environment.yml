@@ -1,0 +1,4 @@
+name: swc-gapminder
+dependencies:
+  - jupyter
+  - python >=3.4
