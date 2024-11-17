@@ -1,35 +1,14 @@
 name: swc-gapminder
+channels:
+  - conda-forge
 dependencies:
-  - jupyter
-  - python >=3.4
-  - virtual-shell
-# Editors
-  - virtual-editor
-# Browsers
-  - virtual-browser
-# Version control
+  - python==3.12
   - git
-  - hg              # Command line tool
-    #mercurial       # Python package
-  - EasyMercurial
-# Build tools and packaging
   - make
-  - virtual-pypi-installer
   - setuptools
-# Testing
-  - nosetests       # Command line tool
-  - nose            # Python package
-  - py.test         # Command line tool
-  - pytest          # Python package
-# SQL
-  - sqlite3         # Command line tool
-  - sqlite3-python  # Python package
-# Python
-  - python
-  - ipython         # Command line tool
-  - jupyter         # Former IPython features notebook etc.
+  - ipython
+  - jupyter
   - jupyterlab
-  - argparse        # Useful for utility scripts
   - numpy
   - scipy
   - matplotlib
