@@ -445,3 +445,10 @@ Please check the "Setup" page of
 <a href="{{site.incubator_lesson_site}}">the lesson homepage</a> for instructions to follow
 to obtain the software and data you will need to follow the lesson.
 {% endif %}
+
+{% comment %}
+The below from https://github.com/jekyll/jekyll/issues/1303#issuecomment-21067548
+{% endcomment %}
+{% capture my_include %}{% include troubleshooting-notes.md %}{% endcapture %}
+{{ my_include | markdownify }}
+
